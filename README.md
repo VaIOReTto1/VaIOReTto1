@@ -1,6 +1,6 @@
 ### HELLO
 
-我是VaIOReTto1，一名安卓独立开发者，目前为中国矿业大学22级本科生
+我是VaIOReTto1，一名安卓独立开发者，目前为中国矿业大学26届本科生
 
 个人主页： https://vaioretto1.github.io/
 
