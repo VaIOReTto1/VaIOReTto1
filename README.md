@@ -70,7 +70,7 @@ Thank you for visiting my profile! 😊 Feel free to explore my projects and con
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvai0retto1" alt="Twitter badge"></a>
+  <a href="https://x.com/vai0retto1"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvai0retto1" alt="Twitter badge"></a>
 </p>
 
 <!-- Footer -->
