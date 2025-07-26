@@ -42,8 +42,8 @@ Take a look at some of my favorite projects:
 | Name                                                 | Tech                  | Brief                                                        |
 | ---------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
 | [Novel](https://github.com/VaIOReTto1/Novel)         | Kotlin · React Native | Tomato-Novel-inspired reading app, offline caching & theming |
-| [Weather](https://github.com/VaIOReTto1/Weather)     | Flutter               | 7-day forecast, OpenWeather API, adaptive layouts            |
-| [CumtLogin](https://github.com/VaIOReTto1/CumtLogin) | Kotlin · Go · JS      | SSO helper with QR-code login + CLI                          |
+| [Weather](https://github.com/VaIOReTto1/Weather)     | Kotlin               | 7-day forecast, OpenWeather API, adaptive layouts            |
+| [CumtLogin](https://github.com/VaIOReTto1/CumtLogin) | Flutter       | SSO helper with QR-code login + CLI                          |
 
 <details>
 <summary>📚 More Projects</summary>
