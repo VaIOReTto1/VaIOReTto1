@@ -1,6 +1,6 @@
 <!-- ✨ Animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20👋%20I’m%20VaIOReTto1&fontSize=40&fontAlignY=30&desc=Cross-platform%20developer%20%7C%20Kotlin%20%E2%80%A2%20Flutter%20%E2%80%A2%20React%20Native&descAlignY=60" alt="Profile banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20👋%20I’m%20Dylan&fontSize=40&fontAlignY=30&desc=Cross-platform%20developer%20%7C%20Kotlin%20%E2%80%A2%20Flutter%20%E2%80%A2%20React%20Native&descAlignY=60" alt="Profile banner">
 </p>
 
 ## 🚀 About Me
